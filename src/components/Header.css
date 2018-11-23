@@ -1,0 +1,13 @@
+
+ul li {
+    display: inline;
+}
+
+.modalButton {
+    padding-left: 0px;
+    margin-right: 90%;
+}
+
+.title {
+    text-align: center;
+}

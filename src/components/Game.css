@@ -1,0 +1,21 @@
+.game-form {
+    text-align: center;
+    width: 20%;
+    position: relative;
+    left: 40%; 
+    background: gray;
+    height: 80px;
+    }
+
+input, button{
+    width: 200px;
+    height: 30px;
+    font-size: 1.3em;
+}
+button {
+    display: inline-block;
+    text-align: center;
+    background: blue;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,20 @@
+
+.guessing-game {
+    color: white;
+    background:#152D5B;
+    width:95%;
+    padding: 15px;
+    position: relative;
+    left: 1.5%;
+    height: 820px;
+}
+
+.status {
+    text-align: center;
+    background: red;
+    height: 30px;
+    width: 20%;
+    position: relative;
+    left: 40%; 
+    margin-bottom: 0%;
+}

@@ -1,0 +1,18 @@
+.failed-guesses, .guess-num {
+    text-align: center;
+    width: 20%;
+    position: relative;
+    left: 40%; 
+}
+
+.failed-guesses {
+    height: 60px;
+    color: black;
+    background: aquamarine;
+}
+
+.guess-num {
+    background: gray;
+    height: 100%;
+    margin:0;
+}
